@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagyashri Birajdar</h1>
-<img align=”right” alt =”coding” width=”400” src"https://tse4.mm.bing.net/th?id=OIP.cdu5l7J9zLa___BLB22UtQHaE8&pid=Api&P=0”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyashri&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyashri" /> </p>
 
