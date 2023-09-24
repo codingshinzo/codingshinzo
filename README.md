@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagyashri Birajdar</h1>
-<img align ="right" alt="Coding" width="400" src="https://www.teamplusindia.in/wp-content/uploads/2023/09/Hire-Java-Developers-in-India.jpg">
+<img align ="right" alt="Coding" width="400" border-radius:50px src="https://www.teamplusindia.in/wp-content/uploads/2023/09/Hire-Java-Developers-in-India.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyashri&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyashri" /> </p>
 
